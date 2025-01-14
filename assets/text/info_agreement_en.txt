@@ -1,0 +1,61 @@
+
+1. Personal Information Collection Items
+Care&Co Inc. (hereinafter referred to as 'the company') collects the following personal information from the initial membership registration or users of the service trial mode for the use of the service.
+Users have the right to disagree with the collection and use of 'personal information other than the necessary minimum information' when agreeing to this personal information collection and use agreement.
+
+1) Collected Member Information and Device Items
+• User's name, date of birth
+• User's email, phone number
+• User's height, weight
+• Device information of connected devices
+  (identifier, model code, Mac address)
+• Status information of connected devices
+  (operation information, alarm, event information)
+• Operation history of connected devices
+  - Power ON/OFF
+  - Network connection status
+  - Event occurrence history
+• Plantar pressure information collected by connected devices
+
+2) Information collected from devices connected to the device
+• Device information of devices connected to the device
+  (model name, type, name, device description, manufacturer, serial number)
+• Basic operation information of devices connected to the device
+  - Power usage information
+
+※ You may refuse to consent to the collection and use of required items, but as this is information that must be provided for service provision, if you refuse, you cannot sign up for membership, use the service, etc.
+
+2. Purpose of Collection and Use of Personal Information
+The company uses the collected personal information for the following purposes.
+
+1) Member management
+• User identification (email address, name, mobile phone number)
+• Restriction measures and sanctions on members who violate the terms of use
+• Notification of important notices as necessary
+
+2) Service provision
+• Operation information and status information of devices connected to the FISICA app, power notifications
+• Execution of commands requested by the user through the FISICA app and control of connected products
+• Execution of schedules, alarms, standby power functions set by the user through the FISICA app
+• Control of connected devices using user status information and execution of automation functions set by the user
+
+3) Service improvement and statistical analysis
+• Preparation of statistical data on service usage
+• Service development and improvement through statistical research and analysis
+• New service development, product planning, marketing, advertising
+
+4) Fisica service
+• Providing users with Footprint analysis results through the FISICA app
+• Providing users with Vision analysis results and digital twin avatars through the FISICA app
+• Providing users with notifications of directly registered schedules through the FISICA app
+
+3. Retention and Use Period of Personal Information
+In principle, the user's personal information is destroyed without delay once the purpose of collection and use is achieved.
+However, if it is necessary to retain personal information according to the provisions of relevant laws, the company may retain personal information as follows in accordance with the provisions of the relevant laws.
+
+1) Records related to contracts or subscription withdrawals (5 years): Act on Consumer Protection in Electronic Commerce, etc.
+2) Records on payment and supply of goods, etc. (5 years): Act on Consumer Protection in Electronic Commerce, etc.
+3) Records on consumer complaints or dispute resolution (3 years): Act on Consumer Protection in Electronic Commerce, etc.
+4) Records on the collection/processing and use of credit information (3 years): Act on the Use and Protection of Credit Information
+5) Records on display/advertising (6 months): Act on Consumer Protection in Electronic Commerce, etc.
+6) Records on users' internet log data/access tracking data (3 months): Protection of Communications Secrets Act

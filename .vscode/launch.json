@@ -1,0 +1,121 @@
+{
+  // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+  // 기존 특성에 대한 설명을 보려면 가리킵니다.
+  // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "mwc",
+      "request": "launch",
+      "type": "dart"
+    },
+    {
+      "name": "mwc (profile mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "profile"
+    },
+    {
+      "name": "mwc (release mode)",
+      "request": "launch",
+      "type": "dart",
+      "flutterMode": "release"
+    },
+    {
+      "name": "Android real",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "R59N201ZJ0V"
+    },
+    {
+      "name": "Android tab",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "R54T3005PVK"
+    },
+    {
+      "name": "iPhone 13",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "00008110-001E61C81A3A401E"
+    },
+    {
+      "name": "iPhone 12",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "00008101-000E31390168001E"
+    },
+    {
+      "name": "Android 3",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "emulator-5554"
+    },
+    {
+      "name": "iPhone 15",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "8A253750-B0A9-458F-A814-4E2969F63194"
+    },
+    {
+      "name": "iPhone 16",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "6D36825E-6EF9-48F5-AB4B-D19CC1CEB5A6"
+    },
+    {
+      "name": "ipad_mini",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "00008110-000631D62621801E"
+    },
+    {
+      "name": "iPad",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "00008030-0002205911E0202E"
+    },
+    {
+      "name": "tta ios",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "00008030-0009796C21F0802E"
+    },
+    {
+      "name": "tta and",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "ce0917192d67c80404"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "vm Devices",
+      "configurations": ["Android 3", "iPhone 15"]
+    },
+    {
+      "name": "real Devices",
+      "configurations": ["ipad_mini", "iPhone 13"]
+    },
+    {
+      "name": "tab and vm ios",
+      "configurations": ["Android tab", "iPhone 15"]
+    },
+    {
+      "name": "13 and vm and",
+      "configurations": ["Android 3", "iPhone 13"]
+    },
+    {
+      "name": "tta",
+      "configurations": ["tta and", "tta ios"]
+    },
+    {
+      "name": "iPhone 12,13",
+      "configurations": ["iPhone 13", "iPhone 12"]
+    },
+    {
+      "name": "pad,ipad_mini",
+      "configurations": ["ipad_mini", "iPad"]
+    }
+  ]
+}

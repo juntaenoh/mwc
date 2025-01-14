@@ -1,0 +1,3 @@
+NSBluetoothAlwaysUsageDescription = "Do you want to allow Bluetooth?";
+NSCameraUsageDescription = "Do you want to allow camera use?";
+NSPhotoLibraryUsageDescription = "Do you want to allow the use of the photo library?";

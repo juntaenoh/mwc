@@ -1,0 +1,171 @@
+ Article 1 (Purpure)
+The purpose of these terms and conditions is to stipulate basic matters such as the rights, obligations, and responsibilities of the "Company" and "Member" (or "User") in relation to the use of the digital health care service application Fisica (hereinafter referred to as "Service" and "Fijica") using the wired and wireless Internet provided by Care Enco Co., Ltd. (hereinafter referred to as the "Company"). 
+Article 2 (Definition of Terms) 
+The definitions of terms used in these Terms are as follows: 
+(1) "Company" is "Digital Hell"It refers to a person who conducts economic activities related to the industry in the field of "Scare" and provides content and all services.
+(2) "Member" refers to a customer who accesses the company's "service", enters into a use contract with the "company" in accordance with these terms and conditions, and uses the "service" provided by the "company" 
+(3) "Service" refers to all services related to Fijica that "members" can use regardless of the terminal (including various wired and wireless devices such as PCs and portable terminals) that are implemented 
+(4) "E-mail" is a member.It is one of the existing e-mails of the member selected for the use and identification of the service, which can be used as a login method along with the “password” through the legal “authentication” process, and can receive e-mails for “identification” 
+(5) "PASSWORD" refers to a combination of letters or numbers determined by the "Member" to confirm that it is a member who matches the "ID" ("E-mail" or "mobile phone number") granted by the "Member" and to protect the confidentiality 
+(6) "Licence"Means that the user purchases a “device” to register the unique identification information for that device, and through this, the right to use all of the services and functions within the application. By registering a license, users are free to use all the features of the application, and some features may be limited if the license registration is not completed. 
+(7) "Personal information" refers to information about a living individual and the name, date of birth, etc. contained in the information.Refers to information that can identify the individual by means of (including something that can be easily identified in combination with other information, even if that information alone does not identify a particular individual) 
+(8) "Posts" refers to general information such as posts, photos, videos, and various files and links, and health information such as weight and Footprint (hereinafter referred to as "Low Foot Pressure") analysis in the form of information such as code, text, voice, sound, video, video, etc. posted on the service when the "Member" uses the "Service" 
+(9) “formerPhone number” refers to a normal phone number that can receive SMS that can be used as a login means by a member's own mobile phone number through a legal “identification” process in the service for use and identification of the service.
+(10) "Withdrawal of Membership" or "Cancellation" means that the "Member" cancels the Company's "Service" use contract.
+(11) "Identification" refers to PASS and the identity authentication service provided by the third company, entering the mobile phone number and real name information and the relevant external appIt refers to the authentication process provided through the company's Firebase, etc., or the authentication service provided through Google's Firebase, which is registered by the company, and the authentication process that can confirm the normal operation of the mobile phone number and e-mail.
+(12) "Footprint Report" refers to the analysis of the user's body balance information according to the AI algorithm and form created by the "Company" based on the foot pressure and weight information measured by the licensed user through the "Fisica Scale" device.(13) “Measurement History” refers to a form of service that allows licensed users to view the flow of health changes by organizing the records of foot pressure and weight information measured through the “Fisica Scale” 
+(14) “Vision analysis” refers to a service that analyzes and types posture using an AI algorithm based on a body photo that fits the user's front, side, etc. 
+(15) “Neural Avatar” (hereinafter referred to as “Avatar”) refers to the user's “low-pressure” andIt refers to the 3D body modeling output that is output based on the type of foot pressure that came out through “Vision Analysis”.
+(16) “Device” means the “Fisica Scale” product sold by the “Company”. When you purchase the "Device", you will be provided with a "License" that allows you to use all the functions of the "Service", and the "Member" can register the "License" and use the "Service" freely. You do not have a license because you did not purchase “Device”, or the license registration is not completed.In the case of “members”, some functions may be limited and provided. The definition of the terms used in these Terms and Conditions shall be in accordance with the relevant laws and service-specific policies, except as provided for in Paragraph 1 of this Article, and those not provided for shall be subject to general commercial practices. 
+Article 3 (Specification and Amendment of Terms and Conditions)
+(1) The "Company" will post the contents of these Terms and Conditions in the settings within the Service so that the "Member" can easily know.
+(2) The "Company" is the Act on the Regulation of Terms and Conditions, the Act on Promotion of Information and Communications Network Utilization and Information Protection, etc.These terms and conditions may be amended to the extent that they do not violate relevant laws such as the "Information and Communication Network Act" (hereinafter referred to as the "Information and Communication Network Act").
+(3) If the "Company" revises the terms and conditions, it will specify the date of application, the contents of the revision, the reason for the revision, etc., and notify through the initial screen or the connection screen with the initial screen from at least 7 days before the date of application (changes that are unfavorable or significant to the member 30 days before) until a considerable period of time has elapsed after the date of application.
+(4) The "Company" shall notify the "Member" of the revised terms and conditions in accordance with the preceding paragraph orIf you do not express your intention to refuse until 7 days after the effective date of the amended terms and conditions, if the member does not expressly express the intention to refuse even though it is clearly notified or notified that the intention is deemed to have been expressed, the member shall be deemed to have agreed to the revised terms and conditions.
+(5) If the "Member" does not agree to the revised terms and conditions, it may suspend the use of the service and terminate the contract of use. 
+Article 4 (Interpretation of Terms and Conditions) 
+(1) The "Company" is subject to the "Paid License" (hereinafter referred to as "Paid Services") and individual services subject to separate terms and conditions andYou may have a policy (hereinafter referred to as the "paid terms and conditions, etc."), and if the content conflicts with these terms and conditions, the "paid service terms and conditions, etc." will prevail. 
+(2) Matters or interpretation not stipulated in these terms and conditions shall be subject to the "paid service terms and conditions, etc." and other related laws or commercial practices. 
+Article 5 (Membership) 
+(1) The person who intends to become a member must agree to the contents of the terms and conditions, fill out the form provided on the membership registration page of the service, and apply for use by registering as a member.
+(2) sashimiDepending on the area where the service is used, the company may request other necessary information such as real name verification and identity verification, available e-mail or mobile phone number, and the procedure and method are in accordance with the relevant laws and regulations. 
+A) The name and date of birth of the "member" 
+B) "ID" and "password"
+C) mobile phone number 
+D) e-mail address
+E) user's information and measurement data bar for body health analysis such as gender, height, weight, etc.
+F) type of "content" to be used) other matters that the "company" deems necessary 
+(3) The companyIn principle, we accept membership registration for the application of the above "member". However, the "Company" may not accept any of the following applications. 
+A) If the applicant has previously lost his or her membership under these terms and conditions, B) if he or she is not his or she is not his or she who used the name of another person
+1.	If you do not include false information or what the company presents
+2.	If you are not a real name or use someone else's name
+3.	If you apply in violation of other matters that cannot be approved due to reasons attributable to the member
+4.	If you apply for the purpose of hindering or hindering the well-being of society or morals 
+(4) The "Company" may withsubs acceptance if there is no room for service-related facilities, or if there are technical or business problems.
+(5) If the application for membership is not accepted or withsuled in accordance with paragraphs 3 and 4, the "Company" shall notify the applicant. This is an exception if it is not possible to notify the applicant without any reason attributable to the "Company".
+(6) The time of establishment of the membership contract shall be the time when the "Company" marks the completion of the membership in the application process.
+(7) The "Company" can differentiate the use of "members" by class according to the company policy and divide the time of use, the number of times of use, and the service menu. 
+(8) The degree of difference in user classification and use may change due to situations such as when the "Company" provides a subscription service with paid payment. Before proceeding with the update, the "Company" must notify the "Member" of the relevant information. 
+Article 6 (Processing of Personal Information) 
+"Company" in accordance with the provisions of relevant laws and regulations in order to provide services.We collect and process necessary personal information from "members", and details regarding the processing of personal information are subject to the separate personal information processing policy. 
+Article 7 (Change of Member Information) 
+(1) "Members" may view and modify personal information at any time through the personal information management screen. However, some information for member management, such as email and contact information, cannot be modified.
+(2) "Members" must make corrections online or notify the "Company" by e-mail or other means if there is a change in the information provided at the time of membership registration.
+(3) The "Company" is not responsible for any disadvantages caused by notifying the "Company" of the changes in Paragraph 2. 
+Article 8 (Personal Information Protection Obligation)
+"The company strives to protect the personal information of "members" in accordance with the relevant laws such as the "Information and Communication Network Act" and "Personal Information Protection Act". Regarding the safe processing of personal information, the personal information processing policy of the "Company" in accordance with the relevant laws and regulations applies. 
+Article 9 (Member's ID and Password Management Obligation) 
+(1) Management Book on "ID" and "Password" of "Member"Lim is a "member" and should not be used by a third party.
+(2) If the "Member" is aware that the "ID" and "Password" have been stolen or used by a third party, they must notify the Company immediately and follow the Company's instructions. 
+(3) In the case of Paragraph 2, the "Company" is not responsible for any disadvantages caused by failing to comply with the guidance of the "Company" even if the "Member" does not notify the fact or notifies the fact.
+(4) The "company" is concerned that the "ID" of the "member" leaks personal information.If there is, contrary to antisocial or morals, or if there is a risk of being mistaken for the operator of the "Company" and the "Company", we may restrict the use of that "ID" 
+(5) In principle, the member's ID cannot be changed, and if you want to change it due to unavoidable reasons, you must cancel the ID and re-join.
+(6) The "phone number" registered at the time of membership registration can be modified to manage and log in to the "service" through the identity verification process provided or recommended by the "Company" when the member changes the phone number.
+Article 10 (Company's Obligations) 
+(1) The Company does not engage in any acts prohibited by the relevant laws and these terms and conditions, and strives to provide continuous and stable services.
+(2) The company strives to protect the personal information of "members" without leaking or distributing it to third parties without their consent. 
+(3) The company must have a security system for the protection of members' personal information so that members can use the service safely, and disclose and comply with the privacy policy.
+(4) The company is continuous and stable.In order to provide the service, if the equipment is damaged while improving the service, or the data is lost or damaged, we will do our best to repair or restore it without delay unless there are unavoidable reasons such as natural disasters, emergencies, and failures or defects that cannot be solved with current technology. 
+Article 11 (Obligations of Members) 
+(1) "Members" shall not 
+1.	 Use of the Service for commercial purposes without the consent of the "Company"
+2.	 The act of stealing the information of others
+3.	 Defamation or infringement of the rights of other members
+4.	 The fraudulent use of another member's ID
+5.	 Acts for the purpose of criminal acts or other acts related to criminal acts
+6.	 Defamation or insult to others
+7.	 Infringing on the intellectual property rights of others
+8.	 Hacking or spreading of viruses
+9.	 The act of continuously sending certain contents such as advertising information against the will of others
+10.	 Any act that is deemed to interfere with or may interfere with the stable operation of the service
+11.	 For-profit conduct using the site's information and services
+12.	 Other goodActs that harm customs, other social order, or violate relevant laws and regulations 
+(2) The "Company" may temporarily or permanently restrict the use of the service if the "Member" commits the acts in Paragraph 1.
+(3) The "Member" shall not redistribute or use the contents of all records and personal information viewed through the "Service" for other purposes without the permission of the parties, and all management responsibility rests solely with the "Members" 
+(4) "Members" use the "Service" and use the "Service" to record items such as "Footprint Report" in the "Company" dictionaryThe company is not responsible for the act of reproduction or distribution and commercial use without consent, or other rights such as the copyright of the company or the copyright of a third party, and the company is not responsible for the result and loss of business activities caused by the violation, and legal measures such as punishment by related organizations, and the member is obliged to compensate for the damage suffered by the company in connection with such behavior. 
+(5) "Member" must fill out all matters based on facts when applying for membership or changing member information.If you register false or other people's information, you cannot claim any rights related to it. 
+Article 12 (Use of the Service) 
+(1) The use of the service is possible immediately after the completion of the company's subscription.
+(2) In principle, the service is provided 24 hours a day, 7 days a week. However, if it is necessary to provide the service, regular inspections may be conducted, and the "company" may set a separate date and time. 
+(3) The "Company" has repair, inspection, replacement, and breakdown of information and communication facilities such as computers, communication interruption, or significant reasons for operation.We may temporarily suspend the provision of the "Service" if any. In this case, the "Company" notifies the "Member" through other similar methods, such as pop-up messages or push notifications on the website and applications, individual text messages and emails. However, if there is an unavoidable reason that the "company" cannot notify in advance, it may notify you afterwards 
+(4) The main scope of the “service” is the provision of the “Footprint report” derived using the Fisica Scale. Problems with device equipmentAlternatively, “Footprint Report” results may not be provided normally due to problems with AI algorithms and communication. 
+(5) In addition, the “Company”, including the report, does not provide medical practices 
+(6) The “services” provided by the “Company” do not imply medical practices such as diagnosing and treating an individual's disease, and the Fisica service serves to show through “visualization data” so that “members” can be aware of their physical balance as a precaution. 
+(7) ”FIn order to provide the "ootprint report", you must purchase a "device" and use the specified device after obtaining a "license" through the normal path. 
+Article 13 (Changes in Services, etc.) 
+(1) The "Company" may change all or part of the services provided in accordance with operational technical needs.
+(2) If there is a significant change in the contents of the "service" and the method of use, the reason for the change, the contents of the service to be changed, and the date of provision, etc. must be posted on the initial screen of the service before the change. 
+(3)The "Company" may modify, suspend, or change any or all of the services provided free of charge in accordance with the company's policies and operational needs, and will not compensate the "Members" for this unless there is a special provision in applicable law. 
+Article 14 (Copyright of the Post)
+(1) If the "Post" posted by the "Member" in the Service has copyright and other intellectual property rights, the rights belong to the right holder 
+(2) The "Company" may use the work of the "Member" with the consent of the Member. Only,The use of internal statistical analysis and R&D purposes of the "Company" is comprehensively made through the consent of these Terms and Conditions, not by individual consent 
+(3) The copyright of the technology researched and developed using the work of the "member" belongs to the "Company".
+(4) The "Member" authorises the Company to use their posts for any one of the following purposes, both domestically and internationally
+A) Transmitting, reproducing, displaying, and displaying Member's posts within the Company's services or sites related to the Company's business other than the Company's official site, and exposing outstanding posts on the screens of the Company's services or sites related to the Company's business other than the Company's official site, and modifying User's posts in such a way as to convert the size of User's posts, change the image, simplify, etc.
+B)To allow media organisations, etc. to report or broadcast the media and contents of the Member's postings for the purpose of promoting the Company's services. However, in this case, the Company shall not provide personal information to the media, media organisations, etc. without the consent of the Member.
+(5) The provisions of the preceding paragraphNevertheless, if the company uses the user's post in a way other than the purpose described in any of the preceding paragraphs, consent must be obtained from the relevant "member" in advance. The company's request for use of the post, the consent of the "member" and withdrawal of consent are subject to the method requested by the company, such as by phone or e-mail. In this case, the company will display the source of the post 
+(6) Even if the "member" terminates the use contract of the service, the post registered on the service in the name of the "member" will not be deleted. Members have their own postsIf you do not want to be used in the service after membership withdrawal, you must delete the post directly before membership withdrawal. (However, posts that are reposted or saved by third parties may not be deleted.)
+(7) The company may change the posting location of the post without changing the contents of the original post due to the judgment of the company's operating policy, company merger, transfer of services, etc. 
+Article 15 (Processing and Provision of Data) 
+(1) The "Company" organizes the data collected from the "Members" by various methods of analysis., can be analyzed and used as "statistical data" and "research data.
+(2) The data collected from the "Member" includes data such as foot pressure data directly /System/Library/CoreServices/Finder.app/Contents/Resources/MyLibraries/SharedDocuments.cannedSearchmeasured by the "Member", data such as weight data measured at the same time, data such as test records and medical images directly uploaded by the "Member", and the work of the "Member" and other usage history. 
+Article 16 (Provision of data) 
+(1) Health data such as low foot pressure and weight measured by the "member" through the "device" and the height and age entered by the "member" for smooth use of the serviceSensitive information such as and analysis data based on this may be provided and used for the purpose of each of the following subparagraphs with the consent of the "Members" or to the applicable person.
+1.	 Hospitals and medical institutions
+2.	 Insurance companies and similar institutions
+3.	 Academia 
+4.	 Fitness center for exercise, etc.
+5.	 Research institute 
+6.	 Pharmaceutical company 
+7.	 Use for its AI learning research 
+(2) The "Company" protects all 'data' through encryption, IP encryption, and service access encryption 
+(3) The "Company" may provide "Data" to third parties for business purposes.However, the information before processing through artificial methods is not provided to third parties without the consent of the "member", and personal information is processed through non-identification processing. 
+Article 17 (Extinuation of Data) 
+The “Company” may adjust the “Measurement History” data for a certain period of time after prior notice for the efficient use and operation of the Service. This may be extinguished periodically depending on the period set by the company. 
+Article 18 (Termination of Use Contract and Restriction of Use, etc.) 
+(1) "Members" may apply to the company for termination of the use contract at any time.You can, and the "Company" shall process it immediately as required by applicable law.
+(2) When a "member" wants to cancel the use contract, the member himself/herself can terminate the contract by applying for cancellation to the company or by going through the withdrawal process using the withdrawal menu on the mobile application. 
+(3) If the "Member" terminates the contract, all data of the "Member" will be deleted immediately, except if the "Company" retains the member information in accordance with the relevant law and privacy policy and if it is necessary for the fair handling of business.
+(4) If the "member" does not have a record of logging in to the service in order to use the service continuously, the company may separately store or destroy the member's account based on the period stipulated by the relevant law. 
+(5) If the "Company" violates the obligations of the relevant terms and conditions or interferes with the normal operation of the service, the "Company" may temporarily restrict the use of the service by warning, temporary suspension, permanent suspension, etc. 
+(6) The “Company” shall, notwithstanding the preceding paragraph, the “Copyright Act” and the “Computer Program Protection Act”If you violate the relevant laws, such as the provision and operation of illegal programs, illegal communication and hacking in violation of the "Information and Communication Network Act", distribution of malicious programs, excess of access rights, etc., you can immediately suspend the use permanently. At the time of permanent suspension of use under this paragraph, the "License" subject to the "Device" purchased for the use of the "Service" and the "Measurement History" data stored when using the "Service" and other benefits will also be destroyed, and the "Company" will not compensate separately for this.
+(7) The "Company" is a "member"If you do not log in for more than 3 months, you may restrict your use for the protection of member information and the efficiency of operation.
+(8) The "Company" shall be subject to the conditions and details of the restriction within the scope of the restriction of this article in accordance with the restriction policy of use and the operating policy of individual services.
+(9) In the event of restricting the use of the "Service" or terminating the contract pursuant to this Article, the "Company" shall notify in accordance with Article 9 [Notice to the "Member"]. In the case of restricting the use of the "Service" or terminating the contract pursuant to this section,The "Company" will notify the homepage and application through pop-up messages or push notifications, individual text messages, etc. 
+(10) "Members" may object to restrictions on use under this Article in accordance with the procedures set by the company. At this time, if the "Company" acknowledges that the reason for objection is justified, the "Company" will immediately resume using the service. 
+Article 19 (Limition of Liability) 
+(1) The "Company" is due to a natural disaster, a DDoS attack, an IDC failure, a line failure of a key carrier, or an equivalent force majeure.If you are unable to provide the service, you will be exempted from liability for the provision of the service.
+(2) The "Company" is not responsible for any failure to use the service due to reasons attributable to the "Member".
+(3) The "Company" is not responsible for the contents of the information, data, and facts, reliability, accuracy, etc. posted, transmitted, or transmitted by the "Member" through the Service.
+(4) The "Company" is exempted from liability in the case of transactions, etc. between members or between members and third parties through services. 
+(5) "Company" is nothingWe are not responsible for your use of the services provided to you at a fee unless otherwise provided by applicable law. 
+(5-1) The type of low pressure and the results of the interpretation provided through the “Footprint Report” are the result of the analysis of the machine learning model, and the accuracy is not guaranteed and it is not reliable medical information, so the “Company” is not responsible for any other judgments such as medical, economic, etc. 
+(5-2) The foot pressure type provided through “Vision Analysis” is a machine learning model.As a result of the analysis of , the accuracy is not guaranteed and it is not reliable medical information, so the "Company" is not responsible for any other judgments such as medical, economic, etc. made with reference 
+(5-3) “Avatar” is a 3D graphic output according to the foot pressure type, and the accuracy is not guaranteed as a result of inference through the algorithm, and it is not reliable medical information, so the “Company” is not responsible for any other judgments such as medical, economic, etc. made with reference to this.
+(5-4) The “Footprint Report” and weight record stored as “Measurement History” are the results of the analysis of the machine learning model and the measurement record through the device, and the accuracy is not guaranteed and it is not reliable medical information, so the "Company" is not responsible for any other judgments such as medical, economic, etc. 
+(6) The company does not interfere in transactions made between the company (hereinafter referred to as the linked company) and the member through links, banners, etc. on the screen of this service, and is not responsible for the transaction.
+(7) The company has no obligation to pre-examine the member's post before registration or to check or review the contents of the post at all times, and is not responsible for the results.
+(8) The company is not responsible for problems that occur without any reason attributable to the company, such as problems caused by the member's computer environment or security problems that are not within the scope of the company's control, or network hacking that is difficult to defend at the level of current security technology. 
+Article 20 (Demnity)
+(1) A Member Violates the provisions of these Terms and Conditions.In the event of damage to the company, the member who violates these terms and conditions shall compensate for all damages incurred by the company.
+(2) If the company receives various objections, including claims for damages or lawsuits, from a third party other than the member due to illegal acts performed by the member in the process of using the service or violation of these terms and conditions, the member shall indemnify the company at his or her own responsibility and expense, and if the company is not indemnified, the member shall compensate for all damages caused to the company as a result.
+Article 21 (Provision of Information and Advertising) 
+(1) In operating the service, the company may post various information on the service screen or provide it to members by e-mail, letter mail, text message, push notification, etc. 
+(2) The company may post advertisements on the homepage, service screen, text message, e-mail, push notification, etc. in relation to the operation of the service. However, if the company sends advertisements using text messages, e-mails, push notifications, etc., it will be sent only to users who have consented after confirming whether they have consented to receive them.
+(3) If a member makes a transaction such as the purchase of a product, etc. by using an advertisement posted on the service or participating in the advertiser's promotional activities through the service, the member must accurately confirm the details of the product, etc. written by the advertiser in the service and the terms of the transaction before purchasing the product, etc. The determination and purchase deci
+sion for this is solely the responsibility of the member and the company is not responsible under any circumstances. 
+Article 22 (Dispute Resolution)
+1.	 The company's legitimate opinion raised by its membersIn order to reflect complaints and compensate for the damage, we set up and operate a damage compensation treatment organization.
+2.	 The Company will prioritize complaints and opinions submitted by members. However, if it is difficult to process it quickly, we will immediately notify the user of the reason and the processing schedule.
+3.	 If there is a member's application for damage relief in relation to an e-commerce dispute between the company and the member, it may be subject to the mediation of the Fair Trade Commission or the dispute mediation agency requested by the city/proving governor. 
+Article 23 (Judgment and Governing Law)
+1.	 Litigation regarding disputes arising between the company and its members shall be filed with the competent court under the Civil Procedure Act.
+2.	 Disputes arising between the company and members shall be governed by the laws of the Republic of Korea 
+Article 24 (Company's contact information)
+1.	 Company: Carenco
+2.	 Business registration number: 416-87-02368
+3.	 Address: Room 108, Information Engineering Building (B-dong), 57, Oryun-daero, Geumjeong-gu, Busan, Republic of Korea.
+4.	 Representative: Cho Byung-woo 
+5.	 E-mail address: carencoinc@carenco.kr 
+The terms and conditions will be applied from March 17, 2024.
+

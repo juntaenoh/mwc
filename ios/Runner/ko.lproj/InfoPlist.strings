@@ -1,0 +1,3 @@
+NSBluetoothAlwaysUsageDescription = "블루투스를 허용하시겠습니까?";
+NSCameraUsageDescription = "카메라 사용을 허용하시겠습니까?";
+NSPhotoLibraryUsageDescription = "사진첩 사용을 허용하시겠습니까?";
